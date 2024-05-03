@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Afridoyo Siringoringo. You can all me Ringo
+- 👋 Hi, I’m Afridoyo Siringoringo. You can call me Ringo
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python
 - 📫 How to reach me (LinkedIn : https://www.linkedin.com/in/afridoyosiringoringo/)
