@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @afrisiringo
-- 👀 I’m interested in Data Science
+- 👋 Hi, I’m Afridoyo Siringoringo. You can all me Ringo
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python
-- 📫 How to reach me (instagram : afri siringo)
+- 📫 How to reach me (LinkedIn : https://www.linkedin.com/in/afridoyosiringoringo/)
 
 <!---
 afrisiringo/afrisiringo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
